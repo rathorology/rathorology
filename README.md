@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 ⚡  💬 Ask me about Deep Learning, Computer Vision, Python.
 
 ⚡ 📫 How to reach me: 
+  -    [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rathorology.github.io/)
+  -    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rathorology/)
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rathorology" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aditya-rathore" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/rathorology" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rathorology" height="30" width="40" /></a>
 <!-- <a href="https://www.kaggle.com/aditya22011995" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rathorology" height="30" width="40" /></a> -->
 <!-- <a href="https://leetcode.com/rathorology/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="learn_019" height="30" width="40" /></a> -->
 </p>
