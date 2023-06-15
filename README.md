@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <h1 align="center">Hello 👋 and Welcome to my Profile, I am Aditya</h1> <h4 align="right"></h4>
  
 
-<h3 align="center">I'm a Computer Vision/Machine Learning Engineer. I enjoy researching AI real-world problems.</h3>
+<h3 align="center">I'm a Computer Vision/Machine Learning Engineer. I enjoy researching on AI real-world problems.</h3>
 
 
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ⚡ 👯 I’m looking to collaborate on **Open Source Projects & Research** in Deep Learning and Computer Vision.
 
-⚡  💬 Ask me about Deep Learning - Computer Vision, Python.
+⚡  💬 Ask me about Deep Learning, Computer Vision, Python.
 
 ⚡ 📫 How to reach me: 
 
