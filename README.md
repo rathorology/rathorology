@@ -19,13 +19,14 @@ Here are some ideas to get you started:
  <h1 align="center">Hello 👋 and Welcome to my Profile, I am Aditya</h1> <h4 align="right"></h4>
  
 
-<h3 align="center">I'm a Computer Vision/Machine Learning Engineer. I enjoy researching AI real-world problems. <br/> <b><a href="https://rathorology.github.io/">Read More</a></b></h3>
+<h3 align="center">I'm a Computer Vision/Machine Learning Engineer. I enjoy researching AI real-world problems.</h3>
 
 
 
 ⚡ 🌱 Research Areas: **Computer Vision: 3D Reconstruction, Diffusion model, GANs, Segmentation, Object Detection, Tracking, etc.**
 
 ⚡ 👯 I’m looking to collaborate on **Open Source Projects & Research** in Deep Learning and Computer Vision.
+
 ⚡  💬 Ask me about Deep Learning - Computer Vision, Python.
 
 ⚡ 📫 How to reach me: 
