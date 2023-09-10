@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-⚡ 🌱 Research Areas: **Computer Vision: 3D Reconstruction, Diffusion model, GANs, Segmentation, Object Detection, Tracking, etc.**
+⚡ 🌱 Research Areas: **Computer Vision: 3D Reconstruction,LiDAR, Diffusion model, GANs, Segmentation, Object Detection, Tracking, etc.**
 
 ⚡ 👯 I’m looking to collaborate on **Open Source Projects & Research** in Deep Learning and Computer Vision.
 
